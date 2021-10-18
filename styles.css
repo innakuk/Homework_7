@@ -1,0 +1,122 @@
+* {
+    box-sizing: border-box;
+}
+
+.bck {
+    background-color: grey;
+    padding: 50px;
+    margin-bottom: 200px;
+}
+
+.clearfix {
+    clear: both;
+}
+
+.black {
+    background-color: black;
+    width: 400px;
+    height: 200px;
+    float: left;
+}
+
+.white {
+    background-color: white;
+    width: 400px;
+    height: 200px;
+    float: right;
+}
+
+.green {
+    background-color: rgb(4, 119, 4);
+    width: 400px;
+    height: 200px;
+    float: left;
+}
+
+.light-green {
+    float: right;
+    height: 200px;
+    padding: 50px 0px 50px 0px;
+}
+
+.light-green :last-child {
+    margin-right: 0px;
+}
+
+.green-small {
+    width: 100px;
+    height: 100px;
+    margin-right: 50px;
+}
+
+.green-small.l {
+    background-color: rgb(4, 161, 4);
+    float: left;
+}
+
+.green-small.ll {
+    background-color: rgb(6, 201, 6);
+    float: left;
+}
+
+.green-small.lll {
+    background-color: rgb(31, 233, 31);
+    float: left;
+}
+
+.green-small.llll {
+    background-color: rgb(101, 236, 101);
+    float: left;
+}
+
+.pink {
+    background-color: rgb(228, 15, 51);
+    width: 300px;
+    height: 150px;
+    float: left;
+    margin-right: 100px;
+}
+
+.dark-green {
+    background-color: rgb(3, 32, 3);
+    width: 300px;
+    height: 150px;
+    float: left;
+}
+
+.left {
+    float: left;
+}
+
+.right {
+    float: right;
+}
+
+.center {
+    width: 1100px;
+    margin: 0px auto;
+}
+
+.blue {
+    background-color: blue;
+    width: 500px;
+    height: 800px;
+    float: left;
+}
+
+.yellow {
+    background-color: yellow;
+    width: 500px;
+    height: 350px;
+    margin-bottom: 100px;
+}
+
+.violet {
+    background-color: rgb(141, 9, 141);
+    width: 500px;
+    height: 350px;
+}
+
+.blue.fifth {
+    margin-right: 50px;
+}
